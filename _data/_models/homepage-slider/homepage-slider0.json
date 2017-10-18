@@ -1,0 +1,8 @@
+{
+  "name": "Lead Photo",
+  "image": {
+    "url": "https://d31f902anbz5po.cloudfront.net/1583/239445_1_master.jpg"
+  },
+  "order": 1,
+  "hidden": false
+}
