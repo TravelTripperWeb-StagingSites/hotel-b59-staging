@@ -1,7 +1,24 @@
 {
-  "name": "Lead Photo",
+  "name": "Bar",
   "image": {
-    "url": "https://d31f902anbz5po.cloudfront.net/1583/239445_1_master.jpg"
+    "name": "2016.12.20_Hotel B59 Iceland Bar_003",
+    "file_name": "2016.12.20_Hotel B59 Iceland Bar_003.jpg",
+    "file_type": "image/jpeg",
+    "url": "//cdn.traveltripper.io/site-assets/373_820_8437/media/2017-12-13-085051/2016.12.20-Hotel-B59-Iceland-Bar-003.jpg",
+    "tags": "",
+    "file_size": 946831,
+    "width": 1200,
+    "height": 900,
+    "description": "",
+    "date_added": "2017-12-13-085051",
+    "url_large": "//cdn.traveltripper.io/site-assets/373_820_8437/media/2017-12-13-085051/large_2016.12.20_Hotel_B59_Iceland_Bar_003.jpg",
+    "url_medium": "//cdn.traveltripper.io/site-assets/373_820_8437/media/2017-12-13-085051/medium_2016.12.20_Hotel_B59_Iceland_Bar_003.jpg",
+    "url_small": "//cdn.traveltripper.io/site-assets/373_820_8437/media/2017-12-13-085051/small_2016.12.20_Hotel_B59_Iceland_Bar_003.jpg",
+    "url_xsmall": "//cdn.traveltripper.io/site-assets/373_820_8437/media/2017-12-13-085051/xsmall_2016.12.20_Hotel_B59_Iceland_Bar_003.jpg",
+    "url_thumb": "//cdn.traveltripper.io/site-assets/373_820_8437/media/2017-12-13-085051/thumb_2016.12.20_Hotel_B59_Iceland_Bar_003.jpg",
+    "path": "//cdn.traveltripper.io/site-assets/373_820_8437/media/2017-12-13-085051/2016.12.20-Hotel-B59-Iceland-Bar-003.jpg",
+    "alt": "Bar",
+    "caption": ""
   },
   "order": 1,
   "hidden": false
