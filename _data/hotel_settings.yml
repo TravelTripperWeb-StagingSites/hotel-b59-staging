@@ -1,18 +1,18 @@
 ---
-latitude: 15.49731
-longitude: 73.76723
+latitude: '64.5609'
+longitude: '21.9010'
 map_zoom: 12
-name: Taj Fort Aguada Resort & Spa, Goa
+name: Hotel B59, Borgarnes
 email: hotelb59iceland@gmail.com
 phone_number: 001-111-1111
 address:
   street1: Borgarnes
   street2: ''
-  state: ''
-  city: Borgarbyggd
-  country: 
+  state: Borgarbyggd
+  city: Borgarnes
+  country: Iceland
   zip_code: '310'
-_hotel_id: TAJ545
+_hotel_id: TIHB59
 _portal_id: required-but-empty
 logo: HOTEL B59
 footer_logo: Hotel B59
