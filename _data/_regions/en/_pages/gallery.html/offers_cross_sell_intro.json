@@ -1,6 +1,6 @@
 [
   {
     "_template": "html",
-    "content": "<h2>Special Offers - COMING SOON...</h2>\n<p>Once you set up special offers in RezTrip, you'll see them show up like this image:</p>\n<p><img style=\"width: calc(100% + 90px); margin-left: -45px;\" src=\"../ttio_templates/express-multi/assets/images/offersSampleImage.png\" /></p>"
+    "content": "<h2>Special Offers - COMING SOON...</h2>\n<p><img style=\"width: calc(100% + 90px); margin-left: -45px;\" src=\"../ttio_templates/express-multi/assets/images/offersSampleImage.png\" /></p>"
   }
 ]
