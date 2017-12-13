@@ -1,10 +1,24 @@
 {
   "name": "Lobby",
   "image": {
-    "url": "/assets/stock_images/lobby.jpg",
-    "url_large": "",
-    "url_medium": "",
-    "alt_text": "Lobby"
+    "name": "da na zin",
+    "file_name": "da na zin.jpg",
+    "file_type": "image/jpeg",
+    "url": "//cdn.traveltripper.io/site-assets/373_820_8437/media/2017-12-13-084613/da-na-zin.jpg",
+    "tags": "",
+    "file_size": 150689,
+    "width": 440,
+    "height": 550,
+    "description": "",
+    "date_added": "2017-12-13-084613",
+    "url_large": "//cdn.traveltripper.io/site-assets/373_820_8437/media/2017-12-13-084613/large_da_na_zin.jpg",
+    "url_medium": "//cdn.traveltripper.io/site-assets/373_820_8437/media/2017-12-13-084613/medium_da_na_zin.jpg",
+    "url_small": "//cdn.traveltripper.io/site-assets/373_820_8437/media/2017-12-13-084613/small_da_na_zin.jpg",
+    "url_xsmall": "//cdn.traveltripper.io/site-assets/373_820_8437/media/2017-12-13-084613/xsmall_da_na_zin.jpg",
+    "url_thumb": "//cdn.traveltripper.io/site-assets/373_820_8437/media/2017-12-13-084613/thumb_da_na_zin.jpg",
+    "path": "//cdn.traveltripper.io/site-assets/373_820_8437/media/2017-12-13-084613/da-na-zin.jpg",
+    "alt": "test1",
+    "caption": ""
   },
   "order": 1
 }
