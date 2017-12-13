@@ -3,14 +3,16 @@ latitude: 15.49731
 longitude: 73.76723
 map_zoom: 12
 name: Taj Fort Aguada Resort & Spa, Goa
-email: vishal@traveltripper.com
+email: hotelb59iceland@gmail.com
 phone_number: 001-111-1111
 address:
-  street1: Sinquerim Bardez
+  street1: Borgarnes
   street2: ''
   state: ''
-  city: Candolim
+  city: Borgarbyggd
   country: 
-  zip_code: '403519'
+  zip_code: '310'
 _hotel_id: TAJ545
 _portal_id: required-but-empty
+logo: HOTEL B59
+footer_logo: Hotel B59
