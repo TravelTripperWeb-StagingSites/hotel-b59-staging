@@ -1,0 +1,5 @@
+{
+  "name": "Sample Amenity",
+  "order": 0,
+  "hidden": true
+}
