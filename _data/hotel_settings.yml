@@ -5,7 +5,7 @@ map_zoom: 12
 name: Hotel B59, Borgarnes
 email: hotelb59iceland@gmail.com
 phone_number: 001-111-1111
-default_currency: KRON
+default_currency: ISK
 address:
   street1: Hotel B59
   street2: ''
