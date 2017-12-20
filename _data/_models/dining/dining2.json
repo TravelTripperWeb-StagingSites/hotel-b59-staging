@@ -1,11 +1,29 @@
 {
-  "name": "The Bar",
+  "name": "The Iceland Bar",
   "tagline": "Have a drink with us",
-  "description": "<p>Info about the bar</p>",
+  "description": "<p>Have a drink with us</p>",
   "image": {
-    "url": "/assets/stock_images/outdoor-restaurant.jpg"
+    "name": "2016.12.20_Hotel B59 Iceland Bar_002",
+    "file_name": "2016.12.20_Hotel B59 Iceland Bar_002.jpg",
+    "file_type": "image/jpeg",
+    "url": "//cdn.traveltripper.io/site-assets/32_820_8437/media/2017-12-15-061831/2016.12.20-Hotel-B59-Iceland-Bar-002.jpg",
+    "tags": "gallery",
+    "file_size": 874285,
+    "width": 1200,
+    "height": 900,
+    "description": "",
+    "date_added": "2017-12-15-061831",
+    "url_large": "//cdn.traveltripper.io/site-assets/32_820_8437/media/2017-12-15-061831/large_2016.12.20_Hotel_B59_Iceland_Bar_002.jpg",
+    "url_medium": "//cdn.traveltripper.io/site-assets/32_820_8437/media/2017-12-15-061831/medium_2016.12.20_Hotel_B59_Iceland_Bar_002.jpg",
+    "url_small": "//cdn.traveltripper.io/site-assets/32_820_8437/media/2017-12-15-061831/small_2016.12.20_Hotel_B59_Iceland_Bar_002.jpg",
+    "url_xsmall": "//cdn.traveltripper.io/site-assets/32_820_8437/media/2017-12-15-061831/xsmall_2016.12.20_Hotel_B59_Iceland_Bar_002.jpg",
+    "url_thumb": "//cdn.traveltripper.io/site-assets/32_820_8437/media/2017-12-15-061831/thumb_2016.12.20_Hotel_B59_Iceland_Bar_002.jpg",
+    "git_file_name": "_assets/image_data/2016.12.20_Hotel B59 Iceland Bar_002.json",
+    "path": "//cdn.traveltripper.io/site-assets/32_820_8437/media/2017-12-15-061831/2016.12.20-Hotel-B59-Iceland-Bar-002.jpg",
+    "alt": "bar",
+    "caption": ""
   },
-  "menu_url": "http://www.google.com",
+  "menu_url": "",
   "reservations_url": "",
   "order": 2
 }
