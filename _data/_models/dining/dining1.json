@@ -23,7 +23,7 @@
     "alt": "restaurant",
     "caption": ""
   },
-  "menu_url": "http://www.google.com",
-  "reservations_url": "http://www.google.com",
+  "menu_url": "",
+  "reservations_url": "",
   "order": 1
 }
