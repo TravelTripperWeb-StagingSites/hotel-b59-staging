@@ -1,3 +1,4 @@
+---
 en:
   header:
     book_now_button: Book Now
@@ -15,7 +16,7 @@ en:
     buttons:
       make_a_reservation: Make A Reservation
       view_menu: View Menu
-      view_all: View All Dining Options
+      view_all: ''
   offers:
     buttons:
       book_now: Book Offer
