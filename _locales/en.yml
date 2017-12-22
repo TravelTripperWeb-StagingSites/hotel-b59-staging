@@ -20,7 +20,10 @@ en:
   offers:
     buttons:
       book_now: Book Offer
-      view_all: ''
+      view_all: <a href="http://www.hotelb59.is">REYKJAVIK CITY IS ONLY 75KM AWAY,
+        THINGVELLIR NATIONAL PARK IS 85KM AWAY, MAKING HOTEL B59 AN IDEAL PLACE TO
+        HAVE AS YOUR BASE WHILE EXPLORING THE ISLAND. REYKJAVIK DOMESTIC AIRPORT IS
+        76KM AWAY. KEFLAVIK INTERNATIONAL AIRPORT IS 118KM AWAY.</a>
   attractions:
     buttons:
       get_directions: Get Directions

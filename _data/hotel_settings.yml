@@ -3,8 +3,8 @@ latitude: '64.5609'
 longitude: '21.9010'
 map_zoom: 12
 name: Hotel B59, Borgarnes
-email: hotelb59iceland@gmail.com
-phone_number: 001-111-1111
+email: <a href="mailto:hotelb59iceland@gmail.com">hotelb59iceland@gmail.com</a>
+phone_number: <a href="tel:0011111111">001-111-1111</a>
 default_currency: ISK
 address:
   street1: Hotel B59
