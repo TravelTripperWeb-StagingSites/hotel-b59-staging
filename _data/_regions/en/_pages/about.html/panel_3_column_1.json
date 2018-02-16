@@ -1,6 +1,6 @@
 [
   {
     "_template": "html",
-    "content": "<h3>Dining</h3>\n<h2>The Restaurant</h2>\n<p>Our restaurant seats as many as 100 people so it&rsquo;s ideal for both quiet meals and large gatherings. The restaurant offers everything from bistro to an a la carte menu and we pride ourselves in using products from the near vicinity, whenever possible. Our restuarant is one of the trendiest place in town and serves delicious food, an infusion between modern icelandic and international cuisine.</p>\n<p>Breakfast buffet: 7:00-10:00</p>\n<p>Lunch menu: 11.30-14:00</p>\n<p>Bistro menu: 11.30-22:00</p>\n<p>Dinner menu: 18:00-22:00</p>"
+    "content": "<h3>Dining</h3>\n<h2>The Restaurant</h2>\n<p>Our restaurant seats as many as 100 people so it&rsquo;s ideal for both quiet meals and large gatherings. The restaurant offers everything from bistro to an a la carte menu and we pride ourselves in using products from the near vicinity, whenever possible. Our restuarant is one of the trendiest place in town and serves delicious food, an infusion between modern icelandic and international cuisine.</p>\n<p><strong>Breakfast buffet</strong>: 7:00-10:00 | <strong>Lunch menu</strong>: 11.30-14:00 | <strong>Bistro menu</strong>: 11.30-22:00 | <strong>Dinner menu</strong>: 18:00-22:00</p>"
   }
 ]
