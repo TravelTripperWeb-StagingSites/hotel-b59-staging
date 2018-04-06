@@ -1,0 +1,32 @@
+{
+  "name_localized": {
+    "en": "Bunk Bed in 4 person room"
+  },
+  "short_description_localized": {
+    "en": "One Bunk in a communal room - This bed will be in a room with 4 other beds"
+  },
+  "description_localized": {
+    "en": "One Bunk in a communal room - This bed will be in a room with 4 other beds"
+  },
+  "amenities_localized": {
+    "en": [
+
+    ]
+  },
+  "images": [
+    {
+      "caption": "",
+      "description": "",
+      "alt": "",
+      "url": "https://d31f902anbz5po.cloudfront.net/1583/244124_1_yankee_large.jpg"
+    },
+    {
+      "caption": "",
+      "description": "",
+      "alt": "",
+      "url": "https://d31f902anbz5po.cloudfront.net/1583/244173_1_yankee_large.jpg"
+    }
+  ],
+  "reztrip_room_id": "BB",
+  "order": 4
+}

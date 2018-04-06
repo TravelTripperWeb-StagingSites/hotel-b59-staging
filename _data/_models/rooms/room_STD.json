@@ -1,0 +1,32 @@
+{
+  "name_localized": {
+    "en": "Standard"
+  },
+  "short_description_localized": {
+    "en": ""
+  },
+  "description_localized": {
+    "en": "\"Private bathroom    Flat-screen TV - wifi\r\n• Safety Deposit Box • Iron • Desk • Heating • Wardrobe/Closet • Clothes rack • Shower • Hairdryer • Toilet • Bathroom • Telephone • Radio • Cable Channels • Electric kettle • Wake-up service • Towels • Linen\""
+  },
+  "amenities_localized": {
+    "en": [
+
+    ]
+  },
+  "images": [
+    {
+      "caption": "",
+      "description": "",
+      "alt": "",
+      "url": "https://d31f902anbz5po.cloudfront.net/1583/243336_1_yankee_large.jpg"
+    },
+    {
+      "caption": "",
+      "description": "",
+      "alt": "",
+      "url": "https://d31f902anbz5po.cloudfront.net/1583/244171_1_yankee_large.jpg"
+    }
+  ],
+  "reztrip_room_id": "STD",
+  "order": 1
+}

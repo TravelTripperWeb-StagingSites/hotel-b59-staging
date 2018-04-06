@@ -1,0 +1,32 @@
+{
+  "name_localized": {
+    "en": "Bunk Bed in 12 person room"
+  },
+  "short_description_localized": {
+    "en": ""
+  },
+  "description_localized": {
+    "en": "Book 1 bunk bed in a room of 12 other bunk beds. "
+  },
+  "amenities_localized": {
+    "en": [
+
+    ]
+  },
+  "images": [
+    {
+      "caption": "",
+      "description": "",
+      "alt": "",
+      "url": "https://d31f902anbz5po.cloudfront.net/1583/244125_1_yankee_large.jpg"
+    },
+    {
+      "caption": "",
+      "description": "",
+      "alt": "",
+      "url": "https://d31f902anbz5po.cloudfront.net/1583/244174_1_yankee_large.jpg"
+    }
+  ],
+  "reztrip_room_id": "BB2",
+  "order": 5
+}
