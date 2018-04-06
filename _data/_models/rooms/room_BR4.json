@@ -1,0 +1,32 @@
+{
+  "name_localized": {
+    "en": "Private Bunk Room - Sleeps 4"
+  },
+  "short_description_localized": {
+    "en": ""
+  },
+  "description_localized": {
+    "en": ""
+  },
+  "amenities_localized": {
+    "en": [
+
+    ]
+  },
+  "images": [
+    {
+      "caption": "",
+      "description": "",
+      "alt": "",
+      "url": "https://d31f902anbz5po.cloudfront.net/1583/244126_1_yankee_large.jpg"
+    },
+    {
+      "caption": "",
+      "description": "",
+      "alt": "",
+      "url": "https://d31f902anbz5po.cloudfront.net/1583/244175_1_yankee_large.jpg"
+    }
+  ],
+  "reztrip_room_id": "BR4",
+  "order": 6
+}
